@@ -26,6 +26,6 @@ captcha.detailedCheck(res.captchaResponse, ipAddress);
 
 | Captcha Service   | Tag       | Notes |
 |-------------------|-----------|-------|
-| [reCAPTCHAv2](https://developers.google.com/recaptcha/docs/display)       | recaptcha |       |
-| [reCAPTCHAv2 Invis](https://developers.google.com/recaptcha/docs/invisible) | recaptcha |       |
-| [hCaptcha](https://www.hcaptcha.com/)          | hcaptcha  |       |
+| [reCAPTCHAv2](https://developers.google.com/recaptcha/docs/display)       | `recaptcha` |       |
+| [reCAPTCHAv2 Invis](https://developers.google.com/recaptcha/docs/invisible) | `recaptcha` |       |
+| [hCaptcha](https://www.hcaptcha.com/)          | `hcaptcha`  |       |
