@@ -4,7 +4,6 @@
   "description": "A module to easily integrate reCAPTCHA and other services",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
