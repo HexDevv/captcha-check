@@ -5,6 +5,7 @@
   <summary><strong>Changelog</strong></summary>
  
  ### 1.0.0 - captcha-check was created! 🎉
+ - Added reCAPTCHAv2 & hCaptcha
 
 </details>
 
