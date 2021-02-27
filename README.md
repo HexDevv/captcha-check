@@ -25,7 +25,7 @@ captcha.check(res.captchaResponse, ipAddress);
 captcha.detailedCheck(res.captchaResponse, ipAddress);
 ```
 
-# Supported Captcha services:
+# Supported Captcha services
 
 | Captcha Service   | Tag       | Notes |
 |-------------------|-----------|-------|
